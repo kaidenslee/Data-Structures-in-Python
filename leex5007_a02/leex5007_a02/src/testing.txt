@@ -1,0 +1,67 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Kaiden Lee
+ID:      169050073
+Email:   leex5007@mylaurier.ca
+Version: 2023-09-20
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+foods = ['Curry Chicken, 2, False, 320','Apple, 0, True, 90', 'Pizza, 1, False, 120']
+
+Enter origin: 2
+Curry Chicken, Indian, False, 320
+
+Enter origin: 0
+Apple, Canadian, True, 90
+
+Enter origin: 1
+Pizza, Chinese, False, 120
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+foods = ['Curry Chicken, 2, False, 320','Apple, 0, True, 90', 'Pizza, 1, False, 120']
+176
+
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+foods = ['Curry Chicken, 2, False, 320','Apple, 0, True, 90', 'Pizza, 1, False, 120']
+
+Enter food origin: 2
+320
+
+Enter food origin: 1
+120
+
+Enter food origin: 0
+90
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Food                                Origin       Vegetarian Calories
+----------------------------------- ------------ ---------- --------
+Pizza                               Chinese      False      120
+Apple                               Canadian     True       90
+Curry Chicken                       Indian       False      320
+None
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+foods = ['Curry Chicken, 2, False, 320','Apple, 0, True, 90', 'Pizza, 1, False, 120']
+
+Enter food origin:2
+Enter max number of calories: 500
+is_veg = False
+Curry Chicken, Indian, False, 320
+
+Enter food origin:0
+Enter max number of calories: 100
+is_veg = True
+Apple, Canadian, True, 90
+
