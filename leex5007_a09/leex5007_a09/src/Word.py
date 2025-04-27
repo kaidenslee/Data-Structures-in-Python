@@ -3,9 +3,8 @@
 Stores a single word and counts occurrences and
 comparisons when the word is used.
 -------------------------------------------------------
-Author:  David Brown
-ID:      999999999
-Email:   dbrown@wlu.ca
+This file was originally provided as a template. Not my 
+personal work.
 __updated__ = "2024-03-19"
 -------------------------------------------------------
 """
