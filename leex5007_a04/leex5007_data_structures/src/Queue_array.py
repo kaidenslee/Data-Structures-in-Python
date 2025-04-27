@@ -2,10 +2,8 @@
 -------------------------------------------------------
 Array version of the Queue ADT.
 -------------------------------------------------------
-Author:  David Brown
-ID:      999999999
-Email:   dbrown@wlu.ca
-Section: CP164 C
+This file was originally provided as a template. Not my 
+personal work.
 __updated__ = "2024-01-31"
 -------------------------------------------------------
 """
