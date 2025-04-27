@@ -2,9 +2,8 @@
 -------------------------------------------------------
 Food class definition.
 -------------------------------------------------------
-Author:  David Brown
-ID:      123456789
-Email:   dbrown@wlu.ca
+This file was originally provided as a template. Not my 
+code.
 __updated__ = "2024-01-11"
 -------------------------------------------------------
 """
