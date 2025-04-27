@@ -2,9 +2,8 @@
 -------------------------------------------------------
 linked version of the Priority Queue ADT.
 -------------------------------------------------------
-Author:  David Brown
-ID:      123456789
-Email:   dbrown@wlu.ca
+This file was originally provided as a template. Not my 
+personal work.
 __updated__ = "2024-02-17"
 -------------------------------------------------------
 """
