@@ -1,0 +1,49 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Kaiden Lee
+ID:      169050073
+Email:   leex5007@mylaurier.ca
+Version: 2023-09-20
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+source = [11, 22, 33, 44]
+resulting list: 
+11
+22
+33
+44
+None
+
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+
+source = [11, 22, 33, 55]
+resulting target: 
+11
+22
+33
+55
+None
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+is_empty() expects true: True
+2 was appended to list.
+is_empty() expects false: False
+count('2') expects 1:1
+index('2') expects 0: 0
+find('2') expects 2: 2
+1 was inserted to rear of list.
+min() expects 1: 1
+max() expects 2: 2
+2 and 1 were removed from list.
+is_empty() expects True: True
+None

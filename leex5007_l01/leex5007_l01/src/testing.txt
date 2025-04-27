@@ -1,0 +1,58 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Kaiden Lee
+ID:      169050073
+Email:   leex5007@mylaurier.ca
+Version: 2023-09-20
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+ 0 Canadian
+ 1 Chinese
+ 2 Indian
+ 3 Ethiopian
+ 4 Mexican
+ 5 Greek
+ 6 Japanese
+ 7 Italian
+ 8 American
+ 9 Scottish
+10 New Zealand
+11 English
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Name: Apple
+Origin: 2
+Vegetarian (Y/N): Y
+Calories:90
+Apple, 2, True, 90
+
+Name: Pizza
+Origin: 3
+Vegetarian (Y/N): N
+Calories:400
+Pizza, 3, False, 400
+
+Name: Banana
+Origin: 5
+Vegetarian (Y/N): Y
+Calories:90
+Banana, 5, True, 90
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+enter food line thing: apple|7|True|99
+apple, 7, True, 99
+
+enter food line thing: Spanakopita|5|True|260
+Spanakopita, 5, True, 260
+
+enter food line thing: Pizza|0|False|400
+Pizza, 0, False, 400
+

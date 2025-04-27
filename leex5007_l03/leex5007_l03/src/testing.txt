@@ -1,0 +1,72 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Kaiden Lee
+ID:      169050073
+Email:   leex5007@mylaurier.ca
+Version: 2023-09-20
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+source: ['apples', 'cookies', 'icecream', 'strawberries']
+
+queue:
+apples
+cookies
+icecream
+strawberries
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+
+queue: 
+apples
+cookies
+icecream
+strawberries
+
+target:  ['apples', 'cookies', 'icecream', 'strawberries']
+
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+is_empty() expects True: True
+apples was inserted into the queue.
+is_empty() expects False: False
+peek() expects apples: apples
+apples was removed from the queue.
+len() expects 0: 0
+None
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+source: [22, 33, 11, 55, 44]
+
+priority queue: 
+22
+33
+11
+55
+44
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+
+
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+is_empty() expects True: True
+22 was inserted into queue.
+is_empty() expects False: False
+peek() expects 22: 22
+22 was removed from queue.
+is_empty() expects True: True
+None

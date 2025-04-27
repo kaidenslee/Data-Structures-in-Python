@@ -1,0 +1,43 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Kaiden Lee
+ID:      169050073
+Email:   leex5007@mylaurier.ca
+Version: 2023-09-20
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+source = ['apples', 'bananas', 'eggs', 'beans']
+None
+stack:
+apples
+bananas
+eggs
+beans
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+stack: 
+apples
+bananas
+eggs
+beans
+None
+target = ['beans', 'eggs', 'bananas', 'apples']
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+is_empty expects True: True
+Chicken Wings|8|False|298 was pushed onto stack.
+is_empty expects False: False
+peek expects Chicken Wings|8|False|298: Chicken Wings|8|False|298
+Chicken Wings|8|False|298 was popped off of stack.
+is_empty expects True: True
+None
+
